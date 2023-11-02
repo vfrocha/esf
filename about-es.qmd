@@ -1,5 +1,5 @@
 ---
-title: "Statistics Without Firulas"
+title: "Estatystica Siene Firulas"
 comments: false
 image: esf.png
 about:
@@ -16,17 +16,17 @@ about:
       href: https://github.com/
     - icon: twitter
       text: Twitter
-      href: https://twitter.com/    
+      href: https://twitter.com/      
 ---
 
 <center>
 
 ::: {.btn-group role="group" aria-label="About"}
-<a href="about.html"> <button type="button" class="btn btn-primary me-md-2 btn-sm">English</button></a> <a href="about-pt.html"> <button type="button" class="btn btn-primary me-md-2 btn-sm">Português</button></a> <a href="about-es.html"><button type="button" class="btn btn-primary me-md-2 btn-sm">Español</button></a>
+<a href="about.html"> <button type="button" class="btn btn-primary me-md-2 btn-sm">English</button></a> <a href="about-pt.html"> <button type="button" class="btn btn-primary me-md-2 btn-sm">Português</button></a> <a href="about-es.html"> <button type="button" class="btn btn-primary me-md-2 btn-sm">Español</button></a>
 :::
 
 </center>
 
 ::: {#hero-heading}
-Hi!
+¡Hola!
 :::

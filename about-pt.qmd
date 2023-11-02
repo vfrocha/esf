@@ -1,5 +1,5 @@
 ---
-title: "Statistics Without Firulas"
+title: "Estatística Sem Firulas"
 comments: false
 image: esf.png
 about:
@@ -16,7 +16,7 @@ about:
       href: https://github.com/
     - icon: twitter
       text: Twitter
-      href: https://twitter.com/    
+      href: https://twitter.com/      
 ---
 
 <center>
@@ -28,5 +28,5 @@ about:
 </center>
 
 ::: {#hero-heading}
-Hi!
+Olá!
 :::

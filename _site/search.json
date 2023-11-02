@@ -1,0 +1,149 @@
+[
+  {
+    "objectID": "quarto.html",
+    "href": "quarto.html",
+    "title": "Quarto Gallery",
+    "section": "",
+    "text": "Pudim"
+  },
+  {
+    "objectID": "quarto.html#websites",
+    "href": "quarto.html#websites",
+    "title": "Quarto Gallery",
+    "section": "Websites",
+    "text": "Websites\n\nMy personal blog: https://beamilz.com/\nR-Ladies Sao Paulo blog: https://rladies-sp.org/\nMy fianceé and I made our wedding website with Quarto: https://beaeju.com.br/"
+  },
+  {
+    "objectID": "quarto.html#presentations",
+    "href": "quarto.html#presentations",
+    "title": "Quarto Gallery",
+    "section": "Presentations",
+    "text": "Presentations\n\nUtilizando GitHub Actions para baixar dados públicos\n\nThere are more presentations made with Quarto in: Talks."
+  },
+  {
+    "objectID": "quarto.html#presentation-templates",
+    "href": "quarto.html#presentation-templates",
+    "title": "Quarto Gallery",
+    "section": "Presentation templates",
+    "text": "Presentation templates\n\nR-Ladies Quarto Theme - a theme for Slides https://github.com/beatrizmilz/quarto-rladies-theme\nSlides Curso-R - https://github.com/curso-r/quarto-cursor-theme"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Estatistica Sem Firulas",
+    "section": "",
+    "text": "Oct 28, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOct 25, 2023\n\n\n\n\n\n\n\n\nNo matching items\n\n\n See all/Ver todos"
+  },
+  {
+    "objectID": "index.html#recent-posts-posts-recentes",
+    "href": "index.html#recent-posts-posts-recentes",
+    "title": "Estatistica Sem Firulas",
+    "section": "",
+    "text": "Oct 28, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOct 25, 2023\n\n\n\n\n\n\n\n\nNo matching items\n\n\n See all/Ver todos"
+  },
+  {
+    "objectID": "index.html#recent-talks-palestras-recentes",
+    "href": "index.html#recent-talks-palestras-recentes",
+    "title": "Estatistica Sem Firulas",
+    "section": "Recent Talks / Palestras recentes",
+    "text": "Recent Talks / Palestras recentes\n Next activities/Atividades futuras\n\n\n\n\n\nNo matching items\n\n\n See all/Ver todas"
+  },
+  {
+    "objectID": "index.html#posts-in-english",
+    "href": "index.html#posts-in-english",
+    "title": "Estatistica Sem Firulas",
+    "section": "Posts in English",
+    "text": "Posts in English\n\n\n\n\n\nNo matching items\n\n\n See all posts in English"
+  },
+  {
+    "objectID": "index.html#posts-em-português",
+    "href": "index.html#posts-em-português",
+    "title": "Estatistica Sem Firulas",
+    "section": "Posts em Português",
+    "text": "Posts em Português\n\n\n\n\n\nNo matching items\n\n\n Ver posts em Português"
+  },
+  {
+    "objectID": "index.html#posts-en-español",
+    "href": "index.html#posts-en-español",
+    "title": "Estatistica Sem Firulas",
+    "section": "Posts en Español",
+    "text": "Posts en Español\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about-pt.html",
+    "href": "about-pt.html",
+    "title": "Estatística Sem Firulas",
+    "section": "",
+    "text": "English  Português Español\n\n\n\nOlá!"
+  },
+  {
+    "objectID": "about-es.html",
+    "href": "about-es.html",
+    "title": "Estatystica Siene Firulas",
+    "section": "",
+    "text": "English  Português  Español\n\n\n\n¡Hola!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Statistics Without Firulas",
+    "section": "",
+    "text": "English  Português Español\n\n\n\nHi!"
+  },
+  {
+    "objectID": "livros-lidos.html",
+    "href": "livros-lidos.html",
+    "title": "Lista de livros lidos",
+    "section": "",
+    "text": "Estou tentando criar o hábito de ler um pouco todos os dias, e anotando aqui os livros finalizados :)"
+  },
+  {
+    "objectID": "livros-lidos.html#section",
+    "href": "livros-lidos.html#section",
+    "title": "Lista de livros lidos",
+    "section": "2023",
+    "text": "2023\n\nAbril - O poder do hábito - Charles Duhigg\nJan-Abril - O Senhor dos Anéis - J. R. R. Tolkien (trilogia) (iniciado em 2022)"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "series-gha.html",
+    "href": "series-gha.html",
+    "title": "GitHub Actions Series: Making awesome automations",
+    "section": "",
+    "text": "Here you can find a series of posts about GitHub Actions, which are complementary material for my lightning talk at the RStudio Conference - rstudio::conf 2022."
+  },
+  {
+    "objectID": "series-gha.html#posts-in-english",
+    "href": "series-gha.html#posts-in-english",
+    "title": "GitHub Actions Series: Making awesome automations",
+    "section": "Posts in English",
+    "text": "Posts in English\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "series-gha.html#posts-em-português",
+    "href": "series-gha.html#posts-em-português",
+    "title": "GitHub Actions Series: Making awesome automations",
+    "section": "Posts em Português",
+    "text": "Posts em Português\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "series-gha.html#posts-en-español",
+    "href": "series-gha.html#posts-en-español",
+    "title": "GitHub Actions Series: Making awesome automations",
+    "section": "Posts en Español",
+    "text": "Posts en Español\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nNo matching items"
+  }
+]
