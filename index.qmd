@@ -1,5 +1,4 @@
 ---
-title: "estatisticasemfirulas"
 listing:
   contents: posts
   sort: "date desc"
